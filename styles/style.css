@@ -1,0 +1,14 @@
+body {
+  background: url("../images/Cool.jpeg");
+  background-size: cover;
+}
+.header {
+  color: #fff;
+  position: right;
+  border: 6px solid gold;
+  border-radius: 20px;
+  width: 200px;
+  letter-spacing: 0.5em;
+  padding: 10px;
+  margin-left: 20px;
+}

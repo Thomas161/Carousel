@@ -1,0 +1,12 @@
+{
+  "name": "htmlcarousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
