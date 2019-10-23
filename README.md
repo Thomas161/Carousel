@@ -14,3 +14,10 @@ HTML/CSS Bootstrapped App that displays my fave movie scenes using Bootstrap Car
               allowfullscreen
             ></iframe>
 ```
+
+### morgan & nodemon
+
+```python
+npm i morgan
+npm i nodemon
+```
