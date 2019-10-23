@@ -20,11 +20,27 @@
     <link rel="stylesheet" type="text/css" href="./style/style.css" />
     <title>Carousel</title>
   </head>
+  <script>
+    function change_page() {
+      window.location.replace("/secondary/page.html");
+    }
+  </script>
   <body>
     <div>
       <main>
-        <h2 id="header">Tom's Tube</h2>
-        <div class="conatiner">
+        <h4 id="header">
+          Tom's Tube
+          <hr />
+          <button class="btn btn-warning btn-md" onclick="change_page()">
+            Recommended
+          </button>
+          <hr />
+          <a href="https://maginsmovies.wordpress.com/" alt="movie"
+            ><i class="fab fa-wordpress blue fa-1x"></i
+          ></a>
+        </h4>
+        <br />
+        <div class="container">
           <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
               <li
@@ -132,12 +148,6 @@
           </div>
         </div>
       </main>
-
-      <footer>
-        <a href="https://maginsmovies.wordpress.com/" alt="movie"
-          ><i class="fab fa-wordpress blue fa-8x"></i
-        ></a>
-      </footer>
     </div>
   </body>
 </html>
