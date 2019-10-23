@@ -1,0 +1,14 @@
+body {
+  background: url("../images/Cool.jpeg");
+  background-size: cover;
+}
+#header {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px;
+  padding: 30px 15px;
+  text-align: center;
+  font-size: 6rem;
+}
