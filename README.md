@@ -3,7 +3,7 @@
 2 HTML FILES
 
 1. Video carousel of some of my fave movie clips
-2. Filter unique film reccomendations
+2. Filter unique film recommendations
 
 ## script
 
