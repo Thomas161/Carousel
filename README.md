@@ -1,6 +1,17 @@
 # Carousel Tube
 
-HTML/CSS Bootstrapped App that displays my fave movie scenes using Bootstrap Carousel
+2 HTML FILES
+
+1. Video carousel of some of my fave movie clips
+2. Filter unique film reccomendations
+
+## script
+
+serves up app using expressjs
+
+```bash
+npm start
+```
 
 ### iframe tags, simples...
 
@@ -15,7 +26,7 @@ HTML/CSS Bootstrapped App that displays my fave movie scenes using Bootstrap Car
             ></iframe>
 ```
 
-### morgan & nodemon
+### morgan(server logging) & nodemon
 
 ```python
 npm i morgan
